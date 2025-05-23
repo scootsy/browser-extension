@@ -32,6 +32,7 @@
     "bookmarks",
     "commands",
     "contextMenus"
+    "cookies"
   ],
   "background": {
     "service_worker": "./background.js",
